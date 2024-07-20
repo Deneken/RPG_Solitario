@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://bdnhx5pexy6ng"]
+
+[node name="TerrainManager" type="Node2D"]
